@@ -3,13 +3,17 @@
   "displayName": "iit-react-pack",
   "publisher": "iit",
   "description": "React development extension pack",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.72.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iitrust-dev/vscode-react-pack"
+  },
   "extensionPack": [
     "ajhyndman.jslint",
     "andys8.jest-snippets",
