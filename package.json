@@ -1,12 +1,13 @@
 {
   "name": "iit-react-pack",
-  "displayName": "iit-react-pack",
+  "displayName": "React development extensions",
   "publisher": "iit",
-  "description": "React development extension pack",
-  "version": "0.1.0",
+  "description": "React development extensions pack",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.72.0"
   },
+  "icon": "images/icon/logo.png",
   "categories": [
     "Extension Packs"
   ],
