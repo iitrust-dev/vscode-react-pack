@@ -1,0 +1,31 @@
+{
+  "name": "iit-react-pack",
+  "displayName": "iit-react-pack",
+  "publisher": "iit",
+  "description": "React development extension pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ajhyndman.jslint",
+    "andys8.jest-snippets",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
+    "Gruntfuggly.todo-tree",
+    "Magssch.react-typescript-boilerplate",
+    "mhutchie.git-graph",
+    "ms-azuretools.vscode-docker",
+    "naumovs.color-highlight",
+    "Orta.vscode-jest",
+    "PKief.material-icon-theme",
+    "streetsidesoftware.code-spell-checker",
+    "styled-components.vscode-styled-components",
+    "syler.sass-indented",
+    "planbcoding.vscode-react-refactor"
+  ]
+}
