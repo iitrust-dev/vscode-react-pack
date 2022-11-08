@@ -33,3 +33,5 @@ Just a repository with VS Code extension pack for React developers
 <img src="https://raw.githubusercontent.com/iitrust-dev/vscode-react-pack/main/images/ext-card-15.jpg" width="60%" />
 
 <img src="https://raw.githubusercontent.com/iitrust-dev/vscode-react-pack/main/images/ext-card-16.jpg" width="60%" />
+
+<img src="https://raw.githubusercontent.com/iitrust-dev/vscode-react-pack/main/images/ext-card-17.jpg" width="60%" />

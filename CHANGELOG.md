@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v0.2.0]
 
 - Add images
+
+## [v0.3.0]
+
+- Add Stylelint extension
